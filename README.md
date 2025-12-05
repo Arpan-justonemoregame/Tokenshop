@@ -1,6 +1,9 @@
 # TokenShop Smart Contract
 
 A **decentralized token shop** that lets users buy ERC20 tokens (`MyERC20`) by sending ETH. The exchange rate is dynamically calculated using **Chainlink's ETH/USD price feed**.
+<img width="200" height="404" alt="deploy" src="https://github.com/user-attachments/assets/fd45ac83-6a3e-4931-9674-a60ac17b5251" />
+<img width="670" height="251" alt="terminal" src="https://github.com/user-attachments/assets/1d6fb173-8345-47f9-b24d-10ff9d096346" />
+
 
 ## Features
 - **Dynamic Pricing**: Tokens are priced at **2 USD** (adjustable) using real-time ETH/USD rates from Chainlink.
